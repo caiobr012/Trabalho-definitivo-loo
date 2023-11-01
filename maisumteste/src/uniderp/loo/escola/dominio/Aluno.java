@@ -1,4 +1,4 @@
-package uniderp.loo.escola.models;
+package uniderp.loo.escola.dominio;
 
 import java.util.Scanner;
 

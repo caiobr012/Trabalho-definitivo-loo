@@ -1,6 +1,6 @@
-package uniderp.loo.escola.FakeDB;
+package uniderp.loo.escola.fakedb;
 
-import uniderp.loo.escola.models.Aluno;
+import uniderp.loo.escola.dominio.Aluno;
 import java.util.Scanner;
 import java.util.ArrayList;
 
